@@ -26,4 +26,4 @@ def info():
 	    except Exception as e:
 	        print("ERROR:",f,e)
 
-info()
+#info()
